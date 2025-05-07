@@ -1,7 +1,5 @@
 <!-- Matrix Code Background -->
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" alt="matrix background" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,nodejs,redis,rabbitmq,mongodb,azure,docker,kubernetes,python" /> </p> <p align="center">
 
 <h1 align="center">Merhaba, ben Poyraz Alkan 👋</h1>
 <h3 align="center">AI & Cloud Native Architect | Red Hat Specialist | Fullstack Developer</h3>
