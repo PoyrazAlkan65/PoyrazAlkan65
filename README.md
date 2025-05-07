@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" />
+</p>
+
+
+```plaintext
+██████╗  ██████╗ ██╗   ██╗██████╗  █████╗ ██╗  ██╗    █████╗ ██╗      ██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔══██╗╚██╗██╔╝   ██╔══██╗██║      ██║ ██╔╝██╔══██╗████╗  ██║
+██║  ██║██║   ██║██║   ██║██║  ██║███████║ ╚███╔╝    ███████║██║█████╗█████╔╝ ███████║██╔██╗ ██║
+██║  ██║██║   ██║██║   ██║██║  ██║██╔══██║ ██╔██╗    ██╔══██║██║╚════╝██╔═██╗ ██╔══██║██║╚██╗██║
+██████╔╝╚██████╔╝╚██████╔╝██████╔╝██║  ██║██╔╝ ██╗██╗██║  ██║███████╗ ██║  ██╗██║  ██║██║ ╚████║
+╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+
+
 <!-- Matrix Code Background -->
 <p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,nodejs,redis,rabbitmq,mongodb,azure,docker,kubernetes,python" /> </p> <p align="center">
 
@@ -22,3 +36,5 @@
 🌐 Frontend: HTML5 | CSS3 | JavaScript | React Native | Angular
 ☁️ DevOps: Docker | Kubernetes | OpenShift | CI/CD | Git
 🧠 AI: Python | NLP | LLMs | Prompt Engineering | TensorFlow
+
+
