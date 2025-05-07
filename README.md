@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Matrix Code Background -->
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" alt="matrix background" />
+</p>
 
-<!--
-**PoyrazAlkan65/PoyrazAlkan65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Merhaba, ben Poyraz Alkan 👋</h1>
+<h3 align="center">AI & Cloud Native Architect | Red Hat Specialist | Fullstack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Yapay Zeka, Büyük Veri, ve Modern Uygulamalar Uzmanı**  
+🚀 Red Hat OpenShift | Kubernetes | Node.js | .NET Core | MSSQL | MongoDB  
+🧩 NLP, LLMs, Microservice & Event-Driven Systems  
+🎓 Van YYÜ & Okan Üniversitesi | Yüksek Lisans Öğrencisi  
+
+🔭 Şu an üzerinde çalıştığım alanlar:  
+- Kurumsal uygulamaların konteyner tabanlı dönüşümü  
+- Büyük Dil Modelleri (LLM) ile entegre edilmiş akıllı sistemler  
+- AI destekli süreç otomasyonu  
+
+🧰 Kullandığım Teknolojiler:
+```bash
+💻 Backend: Node.js | C# | .NET Core | MSSQL | MongoDB | Redis | RabbitMQ
+🌐 Frontend: HTML5 | CSS3 | JavaScript | React Native | Angular
+☁️ DevOps: Docker | Kubernetes | OpenShift | CI/CD | Git
+🧠 AI: Python | NLP | LLMs | Prompt Engineering | TensorFlow
