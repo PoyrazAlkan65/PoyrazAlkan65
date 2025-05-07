@@ -1,17 +1,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI5amN3YW16c29iYm5neTlwOGw4cHR5bG8wbDkyOG41MzVjbGZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width="100%" />
 </p>
-
-
-```plaintext
-██████╗  ██████╗ ██╗   ██╗██████╗  █████╗ ██╗  ██╗    █████╗ ██╗      ██╗  ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔══██╗╚██╗██╔╝   ██╔══██╗██║      ██║ ██╔╝██╔══██╗████╗  ██║
-██║  ██║██║   ██║██║   ██║██║  ██║███████║ ╚███╔╝    ███████║██║█████╗█████╔╝ ███████║██╔██╗ ██║
-██║  ██║██║   ██║██║   ██║██║  ██║██╔══██║ ██╔██╗    ██╔══██║██║╚════╝██╔═██╗ ██╔══██║██║╚██╗██║
-██████╔╝╚██████╔╝╚██████╔╝██████╔╝██║  ██║██╔╝ ██╗██╗██║  ██║███████╗ ██║  ██╗██║  ██║██║ ╚████║
-╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-
-
 <!-- Matrix Code Background -->
 <p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,nodejs,redis,rabbitmq,mongodb,azure,docker,kubernetes,python" /> </p> <p align="center">
 
