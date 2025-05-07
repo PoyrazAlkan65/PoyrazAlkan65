@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB5cHNkZm5raHBzNWl3emp6MWQ2cXJtcXdpOWdodjNtazcydTc0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwtxXU2SbrTsmA/giphy.gif" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFtNXhucnRzdXRzN3FjMXgyZzAzdWMzbnQxaXBtN2FsYjk4cHVxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xHVWTd2rH7QBpK/giphy.gif" width="100%" />
 </p>
 <!-- Matrix Code Background -->
 <p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,nodejs,redis,rabbitmq,mongodb,azure,docker,kubernetes,python" /> </p> <p align="center">
